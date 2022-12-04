@@ -1,0 +1,32 @@
+// @import '~quasar-addon-styl';
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 80vw;
+    margin: auto;
+    margin-top: 20px;
+    button {
+        margin-right: 20px;
+    }
+
+}
+
+/* this is default styles */
+.my-card {  
+    width: 100%;
+    max-width: 250px;
+}
+
+.product-list-wrapper {
+    max-width: 80vw;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.product-details-wrapper {
+    margin-top: 50px;
+}
+
+
